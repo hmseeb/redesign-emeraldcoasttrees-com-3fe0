@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="All About Trees On The Emerald Coast">
+  <rect width="64" height="64" rx="14" fill="#0B241B"/>
+  <path d="M32 11 44 28H20L32 11Z" fill="#24B07C"/>
+  <path d="M32 21 46 40H18L32 21Z" fill="#19845F"/>
+  <path d="M32 31 49 53H15L32 31Z" fill="#24B07C"/>
+  <rect x="29" y="47" width="6" height="11" rx="2" fill="#E4A13B"/>
+</svg>
